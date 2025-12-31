@@ -11,7 +11,7 @@ Connect to the Jetson as `edgeuser` using the following IP address:
 
 ```bash
 ssh edgeuser@10.24.24.60
-ssh edgeuser@10.24.24.64
+ssh edgeuser@10.24.24.63
 ```
 
 ## Navigate to the Workshop Directory
@@ -132,6 +132,7 @@ python3 bench.py
 ---
 
 ### Environment Setup
+Run this in your loacl machine
 
 ```bash
 git clone <REPO_URL>
